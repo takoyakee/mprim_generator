@@ -20,3 +20,6 @@ run ./csv_mprim_conveter.py: Input: csv filename, Output: mprim filename
 
 
 The generated .mprim files models vehicle constraints and can be used for lattice-state motion planning with the SBPL library
+
+## Example of motion primitive file generated
+![truck primitives](truck_motionprimitives.png)
